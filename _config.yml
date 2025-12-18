@@ -6,7 +6,8 @@ relative_links:
 include:
   - LICENSE.md
   - README.md
-theme: jekyll-theme-hacker
+//theme: jekyll-theme-hacker
+remote_theme: liamg/jekyll-theme-abysm
 title: sreiche's published docs
 description: A one-man bedroom studio.
 google_analytics: true
