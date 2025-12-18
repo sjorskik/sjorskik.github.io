@@ -1,11 +1,12 @@
 Little Bedroom Studio | [Ballsy >](ballsy.html)
 
 Posts (chronologically):
-[Ballsy](ballsy.html)
-[Moar DAWs](moardaws.html)
-[Mixbus Bared](mixbusbared.html)
-[Public Plugin List](pubplugs.html)
-[Pluginlist Published](pubplugs2.html)
+
+* [Ballsy](ballsy.html)
+* [Moar DAWs](moardaws.html)
+* [Mixbus Bared](mixbusbared.html)
+* [Public Plugin List](pubplugs.html)
+* [Pluginlist Published](pubplugs2.html)
 
 # About
 
