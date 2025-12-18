@@ -1,6 +1,15 @@
+Little Bedroom Studio | [Ballsy >](ballsy.html)
+
+Posts (chronologically):
+[Ballsy](ballsy.html)
+[Moar DAWs](moardaws.html)
+[Mixbus Bared](mixbusbared.html)
+[Public Plugin List](pubplugs.html)
+[Pluginlist Published](pubplugs2.html)
+
 # About
 
-Little Dutch Bedroom Studio _(2025-12-14)_ | [Ballsy >](ballsy.html)
+-2025-12-14
 
 ## DAWn Down
 This blog is mostly about music production inside the box, some IT stuff (ex Enterprise IT engineer for 25+ years, specialized in UNIX, storage, network and Windows Server environments) and maybe some out of the box music production, if needed or requested.
@@ -16,4 +25,4 @@ It's a bedroom, yet I can produce stuff there, so it is, in fact, a studio. And 
 
 So I'd say I'm an IK Multimedia studio, mostly.
 
-Little Dutch Bedroom Studio _(2025-12-14)_ | [Ballsy >](ballsy.html)
+Little Bedroom Studio | [Ballsy >](ballsy.html)

@@ -1,6 +1,8 @@
+[< Mixbus Bared](mixbusbared.html) | Wanted to get my extensive plugin list out in the open | [Finally Published >](pubplugs2.html)
+
 # Plugin list
 
-[< Mixbus Bared](mixbusbared.html) | Wanted to get my extensive plugin list out in the open _(2025-12-17)_ | [Finally Published >](pubplugs2.html)
+-2025-12-17
 
 I've took it upon myself to get a list up, mostly for myself, to list a plugin with some flags and a short description of it, and if I wanted it installed, maybe, or not.
 
@@ -25,4 +27,4 @@ So I guess it's back into the books to learn something completely superfluous to
 
 /sign_off
 
-[< Mixbus Bared](mixbusbared.html) | Wanted to get my extensive plugin list out in the open _(2025-12-17)_ | [Finally Published >](pubplugs2.html)
+[< Mixbus Bared](mixbusbared.html) | Wanted to get my extensive plugin list out in the open | [Finally Published >](pubplugs2.html)

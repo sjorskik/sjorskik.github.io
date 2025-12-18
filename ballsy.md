@@ -2,7 +2,7 @@
 
 # Ballsy
 
-_(2025-12-10)_
+-2025-12-10
 
 ## The Studio `Box'
 
@@ -60,4 +60,4 @@ It's 01:34 and I still have to finish watching Match of the Day, so let's get cr
 
 /sign_off
 
-[< Index/About](index.html) | Byebye studio, hello studio! _(2025-12-10)_ | [Moar DAWs >](moardaws.html)
+[< Index/About](index.html) | Byebye studio, hello studio! | [Moar DAWs >](moardaws.html)

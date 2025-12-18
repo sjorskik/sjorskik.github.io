@@ -1,8 +1,10 @@
+[< Ballsy](ballsy.html) | Live and Mixbus | [Mixbus Bared >](mixbusbared.html)
+
 # Moar DAWs
 
-[< Ballsy](ballsy.html) | Live and Mixbus _(2025-12-15)_ | [Mixbus Bared >](mixbusbared.html)
-
 ## Ableton
+
+-2025-12-15
 
 I've only got Ableton's Live Lite version, but it's still a pretty nice DAW with its own quirks. Installing 12.3.1 while watching The Snow Flake at Five Flags, which was still in my queue.
 
@@ -19,4 +21,4 @@ Live Lite brings us [*Drift*](https://www.ableton.com/en/blog/drift-exploring-th
 
 /sign_off
 
-[< Ballsy](ballsy.html) | Live and Mixbus _(2025-12-15)_ | [Mixbus Bared >](mixbusbared.html)
+[< Ballsy](ballsy.html) | Live and Mixbus | [Mixbus Bared >](mixbusbared.html)

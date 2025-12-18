@@ -1,6 +1,8 @@
+[< Moar DAWs](moardaws.html) | Mixbus stock | [Public Plugin List >](pubplugs.html)
+
 # Mixbus Bared
 
-[< Moar DAWs](moardaws.html) | Mixbus stock _(2025-12-16)_ | [Public Plugin List >](pubplugs.html)
+-2025-12-16
 
 ## Stock sound generators
 
@@ -38,4 +40,4 @@ But lookie here, this is a treasure. Sure, not a synthesizer per se, as you don'
 
 /sign_off
 
-[< Moar DAWs](moardaws.html) | Mixbus stock _(2025-12-16)_ | [Public Plugin List >](pubplugs.html)
+[< Moar DAWs](moardaws.html) | Mixbus stock | [Public Plugin List >](pubplugs.html)

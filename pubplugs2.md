@@ -1,6 +1,8 @@
+[< Plugin List](pubplugs.html) | Finally published!
+
 # Plugin list #2
 
-[< Plugin List](pubplugs.html) | Finally published! _(2025-12-18)_
+-2025-12-18
 
 ## GitHub Pages
 _or, Git Inception_
@@ -9,4 +11,4 @@ Got myself a github repo inside my gitlab repo and that's fine, but finally got 
 
 And you're looking at it right now! &#128521;
 
-[< Plugin List](pubplugs.html) | Finally published! _(2025-12-18)_
+[< Plugin List](pubplugs.html) | Finally published!
