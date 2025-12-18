@@ -1,6 +1,7 @@
+[< Index/About](index.html) | Byebye studio, hello studio! | [Moar DAWs >](moardaws.html)
+
 # Ballsy
 
-[< Index/About](index.html) | Byebye studio, hello studio! | [Moar DAWs >](moardaws.html)
 _(2025-12-10)_
 
 ## The Studio `Box'
