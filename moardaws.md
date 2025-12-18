@@ -1,11 +1,6 @@
----
-title: Moar DAWs
-description: Live and Mixbus
-date: 2025-12-15
-toc: false
----
-
 # Moar DAWs
+
+[< Ballsy](ballsy.html) | Live and Mixbus _(2025-12-15)_ | [Mixbus Bared >](mixbusbared.html)
 
 ## Ableton
 

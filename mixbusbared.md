@@ -1,11 +1,6 @@
----
-title: Mixbus Bared
-description: Mixbus internals
-date: 2025-12-16
-toc: true
----
-
 # Mixbus Bared
+
+[< Moar DAWs](moardaws.html) | Mixbus Bared _(2025-12-16)_ | [Public Plugin List >](pubplugs.html)
 
 ## Stock sound generators
 
