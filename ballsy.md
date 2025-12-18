@@ -1,11 +1,7 @@
----
-title: Ballsy
-description: Byebye studio, hello studio!
-date: 2025-12-10
-toc: true
----
-
 # Ballsy
+
+Little Dutch Bedroom Studio _(2025-12-14)_ | [Ballsy >](ballsy.html)
+[< Index/About](index.html) | Byebye studio, hello studio! _(2025-12-10)_ | [Moar DAWs >](moardaws.html)
 
 ## The Studio `Box'
 

@@ -1,5 +1,6 @@
-# About _(2025-12-14)_
-Little Dutch Bedroom Studio
+# About
+
+Little Dutch Bedroom Studio _(2025-12-14)_ | [Ballsy >](ballsy.html)
 
 ## DAWn Down
 This blog is mostly about music production inside the box, some IT stuff (ex Enterprise IT engineer for 25+ years, specialized in UNIX, storage, network and Windows Server environments) and maybe some out of the box music production, if needed or requested.
