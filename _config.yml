@@ -6,3 +6,4 @@ relative_links:
 include:
   - LICENSE.md
   - README.md
+theme: jekyll-theme-hacker
