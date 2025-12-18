@@ -1,6 +1,6 @@
 # Plugin list
 
-[< Mixbus Bared](mixbusbared.html) | Wanted to get my extensive plugin list published online _(2025-12-17)_
+[< Mixbus Bared](mixbusbared.html) | Wanted to get my extensive plugin list out in the open _(2025-12-17)_ | [Finally Published >](pubplugs2.md)
 
 I've took it upon myself to get a list up, mostly for myself, to list a plugin with some flags and a short description of it, and if I wanted it installed, maybe, or not.
 
@@ -21,4 +21,8 @@ Something about Pages and a whole CI/CD stack to get a simple .md markdown file 
 So I found [Gitbook](https://gitbook.com). Sounded reasonable, hooked it up to my Gitlab and bam, can't even render a ~180kB Markdown table without crashing. I wonder what they call 'books'. TikTok subtitles?
 
 ## Gitlab Pages
-So I guess it's back into the books to learn something completely superfluous to publish a static page which is already in a rich format. Technology is unstoppable...
+So I guess it's back into the books to learn something completely superfluous to publish a static page which is already in a rich format. The "forward" momentum of technology is unstoppable...
+
+/sign_off
+
+[< Mixbus Bared](mixbusbared.html) | Wanted to get my extensive plugin list published online _(2025-12-17)_

@@ -15,3 +15,5 @@ My 'box' is a [Lenovo 81Y4](https://pcsupport.lenovo.com/us/en/products/laptops-
 It's a bedroom, yet I can produce stuff there, so it is, in fact, a studio. And I'd like to think you'd call your studio to what software you run the most. I am a brand-based kind of guy, so my hardware always seems to veer towards Roland, although the Behringer prices are very hard to beat (remember, bedroom producer == $empty_wallet) and I bought myself into IK Multimedia's eco system on 2022-11-17.
 
 So I'd say I'm an IK Multimedia studio, mostly.
+
+Little Dutch Bedroom Studio _(2025-12-14)_ | [Ballsy >](ballsy.html)

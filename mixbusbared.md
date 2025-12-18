@@ -1,6 +1,6 @@
 # Mixbus Bared
 
-[< Moar DAWs](moardaws.html) | Mixbus Bared _(2025-12-16)_ | [Public Plugin List >](pubplugs.html)
+[< Moar DAWs](moardaws.html) | Mixbus stock _(2025-12-16)_ | [Public Plugin List >](pubplugs.html)
 
 ## Stock sound generators
 
@@ -37,3 +37,5 @@ There's a choice even here, Black Pearl, Blonde Bop (Hotrod) and Red Zeppelin. A
 But lookie here, this is a treasure. Sure, not a synthesizer per se, as you don't have any control over the synthesized sound, but you could be well forgiven to think it sounds like a Roland D-10/SC-880 or something. Good generic and general sounds and bring them to life with the stock effect plugins and you can quickly get going with something. It even features a 808/909 preset!
 
 /sign_off
+
+[< Moar DAWs](moardaws.html) | Mixbus stock _(2025-12-16)_ | [Public Plugin List >](pubplugs.html)

@@ -57,3 +57,5 @@ Nope, maybe some more DAWs to be installed later on, but we're going to go with 
 It's 01:34 and I still have to finish watching Match of the Day, so let's get cracking to install a hopefully nearly clean Mixcraft Pro Studio 10.6. Reminder if you got more than just Recording Studio, an update usually also brings in the rest of instruments you get from Acoustica.
 
 /sign_off
+
+[< Index/About](index.html) | Byebye studio, hello studio! _(2025-12-10)_ | [Moar DAWs >](moardaws.html)

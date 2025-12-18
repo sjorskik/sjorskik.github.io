@@ -18,3 +18,5 @@ Now let's get creative for the coming days/weeks now and try to stay off more pl
 Live Lite brings us [*Drift*](https://www.ableton.com/en/blog/drift-exploring-the-new-synth-in-live-113/), a very simple 2 oscillator subtractive synth, but do you really need more? I had taken it upon myself to use [Vital](https://vital.audio/) _always_ because it was a DAW agnostic synth, and it _is_ very good, but we could do with even less than Vital for interesting sounds.
 
 /sign_off
+
+[< Ballsy](ballsy.html) | Live and Mixbus _(2025-12-15)_ | [Mixbus Bared >](mixbusbared.html)
