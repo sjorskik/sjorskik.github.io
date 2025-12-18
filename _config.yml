@@ -7,3 +7,6 @@ include:
   - LICENSE.md
   - README.md
 theme: jekyll-theme-hacker
+title: sreiche's published docs
+description: A one-man bedroom studio.
+google_analytics: true
